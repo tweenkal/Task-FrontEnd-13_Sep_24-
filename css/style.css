@@ -1,0 +1,30 @@
+
+iframe{
+    text-align:center;
+    margin:0;
+    padding:0;
+}
+
+Video{
+    margin:0;
+    padding:0;
+}
+
+h1{
+    text-align:center;
+    background-color:#FFE5CF;
+    color:blue;
+}
+
+a{
+    text-align:center;
+}
+
+th{
+    color:blue;
+}
+
+
+td{
+    background-color:#B7B7B7;
+}
